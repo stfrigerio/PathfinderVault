@@ -1,0 +1,39 @@
+---
+
+Titles: Savant of the ecliptic triad
+Alignment: Chaotic evil
+Racespecies: Derro
+Class: Sorcerer 10
+Gender: Female
+Homeland:
+- Corgunbier
+- Nar-voth
+Organization: Ecliptic triad
+
+tag: 👤️
+---
+
+> [!infobox]+
+> #  `= this.file.name`
+> ![[image.png|cover hsmall]]
+> ##### Stats
+> Type | Stat |
+> :---: |:---:|
+> **Titles** | `= this.Titles` |
+> **Alignment** | `= this.Alignment` |
+> **RaceSpecies** | `= this.Racespecies` |
+> **Class** | `= this.Class` |
+> **Gender** | `= this.Gender` |
+> **Homeland** | `= this.Homeland` |
+> **Organization** | `= this.Organization` |
+
+
+
+> **Dandekek** is a powerful [[Dero|dero]] savant. She is one of the three members of the [[Ecliptic Triad]], joint rulers of the dero city of [[Corgunbier]].
+
+
+
+
+
+
+

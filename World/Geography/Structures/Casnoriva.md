@@ -1,0 +1,5 @@
+---
+Nation: Ustalav
+---
+> **Casnoriva** is a ruined, star-shaped manor in the heart of the [[Hungry Mountains]] in the modern [[Ustalav|Ustalavic]] county of [[Virlych]]. It was founded as Ustalav's arcane college by Casnori, a [[Varisia|Varisian]] [[Wizard|wizard]], in what was then called [[Virholt]]. Casnori aided [[Soividia Ustav]] at the time of the founding of the nation of Ustalav in the 24th Century AR.
+> Teaching at the college continued until it became one of the first targets of the [[Whispering Tyrant]] on his return to [[Golarion]] as a [[Lich|lich]] in the 33rd Century AR. The lich threw hordes of [[Demon|demons]] from the [[Abyss]] to attack the school led by his [[Marilith|marilith]] servant [[Kaltestrua]]. The attack was successful and Kaltestrua still controls Casnoriva today, while awaiting signs from [[Gallowspire]] of her master's return. Nevertheless, she still suffers ongoing resistance to her occupation from the [[Ghost|ghosts]] of the Ustalavic mages she defeated centuries before. The mages are led by Mistress [[Qais]] in an endless arcane battle within the ruins.

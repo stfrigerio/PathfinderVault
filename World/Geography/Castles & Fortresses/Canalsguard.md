@@ -1,0 +1,4 @@
+---
+Nation: Taldor
+---
+> **Canalsguard** sits next to [[Pastorling]] at the conjunction of the [[Lingian Prefecture]]'s three largest canals. It was originally built to protect [[Taldor]]'s canals from being used by any invading force from [[Qadira]]. Originally, Canalsguard was built as a inspection and toll station but, during the [[Grand Campaign]], it was greatly expanded and heavily fortified. Since the end of the war with Qadira, Canalsguard has lingered as a hopelessly overbuilt relic of the war. It is now guarded by a skeleton garrison, barely large enough to even manage the toll station. The majority of the fortress sits empty and it is used as a dumping ground by the Taldan military for washouts and screw ups. Canalsguard is currently commanded by [[Urbicus Porphygo]], the scion of a middling [[House Porphygo|noble house]] based in [[Oppara]] and, even with these lowered expectations, he has not been a stellar commander of the fortress.

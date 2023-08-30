@@ -1,0 +1,6 @@
+---
+Nation: Katapesh
+---
+> The **Sleeping Dove** is a shrine dedicated to [[Sarenrae]] located in the western reaches of central [[Katapesh]], less than 100 miles east of [[Solku]].
+> The history of Sleeping Dove is not a happy one: over 100 years ago, a group of pilgrims dedicated to Sarenrae were on a pilgrimage to Solku when they were ambushed by monstrous bandits—some say [[World/Geography/Mountains & Hills/Gnoll|gnolls]], while others say [[Jackalwere|jackalweres]]—and were slaughtered. A week later the bodies were found by passing travellers, who saw their tattered white gowns blowing in the wind and thought they looked like [[Dove|doves]].
+> Several [[Paladin|paladins]] from Solku came out to the site and built a shrine to Sarenrae here to remember their fallen brethren. Ever since the shrine of Sleeping Dove has been sacred ground. Many a traveller stops to rest by the shrine as it seems to repel [[Evil|evil]] creatures and has even been known to grant the [[Good|good]] and devout mysterious, and sometimes prophetic, dreams.

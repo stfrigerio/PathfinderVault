@@ -1,0 +1,1 @@
+> **Lake Ipona** in the [[Wounded Lands]] region wasn't drained by the [[Worldwound]] but its waters are hopelessly tainted by the land's corruption. Its foul and poisonous fluids are home to [[Hezrou|hezrous]], [[Omox|omoxes]], parasites and worse. The edges of the lake surge and slop as if the lake was somehow alive and trying to crawl and hunt.

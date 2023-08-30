@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"type":"file","file":"Quests/Promise/The Ghostly Apparitions.md","id":"807edd8ee02a9db3","x":-135,"y":-7,"width":1535,"height":2887},
+		{"type":"text","text":"Grimorio\n","id":"e08ced6509ef5e06","x":2935,"y":1256,"width":250,"height":60},
+		{"type":"file","file":"World/NPCs/Ghost of Amias Darnell.md","id":"4b875c86c83e2286","x":2000,"y":520,"width":728,"height":1320},
+		{"type":"file","file":"World/NPCs/Professor Thaddeus Blackthorn.md","id":"fde81bae997f9b9d","x":-1100,"y":-840,"width":780,"height":1000},
+		{"type":"file","file":"World/NPCs/Ghost of Morwen Thistle.md","id":"8a53812645c722a1","x":2943,"y":1916,"width":577,"height":1604},
+		{"type":"text","text":"Disturbances","id":"e67f09e6d8867eaf","x":1800,"y":2200,"width":400,"height":440},
+		{"type":"file","file":"Evil Entity.md","id":"f1d78ae12f22f35b","x":3605,"y":870,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"World/Organizations/The Luminous Order.md","id":"aa75118a44d2500c","x":2819,"y":-720,"width":786,"height":836},
+		{"type":"file","file":"World/NPCs/Charlotte.md","id":"ad379b0066761805","x":-1400,"y":520,"width":840,"height":1080},
+		{"type":"file","file":"World/NPCs/Professor Marius.md","id":"b13a11df9bead688","x":-135,"y":-780,"width":400,"height":400},
+		{"type":"text","text":"Professor XXX","id":"dea951a3a3ae90be","x":4260,"y":2139,"width":250,"height":381,"color":"1"},
+		{"type":"file","file":"Quests/Promise/The Missing Artifact.md","id":"09b4937f064a7598","x":5325,"y":-1195,"width":1995,"height":1795},
+		{"type":"file","file":"World/NPCs/Ghost of Eadric the Jester.md","id":"894d76e9d99629e0","x":1960,"y":3120,"width":920,"height":1800}
+	],
+	"edges":[
+		{"id":"75289aa138b417c8","fromNode":"4b875c86c83e2286","fromSide":"right","toNode":"e08ced6509ef5e06","toSide":"left"},
+		{"id":"6fc3b341dea4d169","fromNode":"807edd8ee02a9db3","fromSide":"right","toNode":"e67f09e6d8867eaf","toSide":"left"},
+		{"id":"af2d123d18163141","fromNode":"8a53812645c722a1","fromSide":"left","toNode":"e67f09e6d8867eaf","toSide":"right"},
+		{"id":"a14b341f2eeba609","fromNode":"4b875c86c83e2286","fromSide":"bottom","toNode":"e67f09e6d8867eaf","toSide":"top"},
+		{"id":"9e14fa48b7bd29dd","fromNode":"f1d78ae12f22f35b","fromSide":"left","toNode":"e08ced6509ef5e06","toSide":"right"},
+		{"id":"9e766b6e1cde8ba1","fromNode":"aa75118a44d2500c","fromSide":"bottom","toNode":"e08ced6509ef5e06","toSide":"top"},
+		{"id":"e2f565462482c7ad","fromNode":"f1d78ae12f22f35b","fromSide":"top","toNode":"aa75118a44d2500c","toSide":"bottom"},
+		{"id":"48e54c96862cfd91","fromNode":"dea951a3a3ae90be","fromSide":"left","toNode":"8a53812645c722a1","toSide":"right"},
+		{"id":"60f3d4367f360235","fromNode":"aa75118a44d2500c","fromSide":"right","toNode":"09b4937f064a7598","toSide":"left"},
+		{"id":"b3418bc982b3d391","fromNode":"894d76e9d99629e0","fromSide":"top","toNode":"e67f09e6d8867eaf","toSide":"bottom"}
+	]
+}

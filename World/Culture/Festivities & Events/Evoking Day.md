@@ -1,0 +1,11 @@
+> A holy day to followers of [[Nethys]], **Evoking Day** is full of vibrant explosions, skillful wielding of spells, and much dancing. Evoking Day is observed on the 18th of [[Neth]], and while this holiday is mostly celebrated in [[Garund]], temples dedicated to Nethys host celebrations throughout the [[Inner Sea]] region. Traditional celebrations of Evoking Day have changed over the thousands of years since its first incarnation, but to this day every occurrence of Evoking Day still features a grand meal shared by celebrants during the afternoon and a wondrous exhibition of brilliant and explosive magic once the sun sets. These days, such colorful magical displays are augmented with fireworks of a dozen different colors and patterns.
+> In temples of Nethys dedicated to revering [[Magic/Evocation|evocation]] magic, priests and prominent arcanists participate in spell duels where each contestant stands on a raised platform and takes turns trying to incapacitate her opponent. The magic wielded in theses duels favors the flashy over the dangerous, but [[Cleric|clerics]] of Nethys are on hand to treat any injuries. These duels gather large crowds eager to lend their applause to their favorite contestant.
+> It is also during this festival when [[Wizard|wizards]] who worship Nethys open their spellbooks to others who share their craft. Wizards normally guard their spellbooks with their lives and covet the eldritch information therein, but on Evoking Day these wizards meet with one another prior to the afternoon feast to share their spells just as they prepare to share a grand meal.
+> Though Evoking Day is primarily a day of grand magic, those with no spellcasting talent still flock to local temples of Nethys to partake in the shared feast and flashy evening displays of magic and fireworks. Between the meal and into the night, celebrants wear black-and-white robes and perform joyous dances meant to give thanks to the wonders Nethys brought to humankind. These dances are grand affairs involving dozens of dancers all spinning and clapping to the accompanying music as their black-and-white robes fan out around them with each spin. As night descends and the fireworks and magical displays begin, the dancing rises to a climax erupting in shouts and calls to Nethys with each thunderous boom.
+
+
+
+
+
+
+

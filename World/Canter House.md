@@ -1,0 +1,3 @@
+---
+---
+> **Canter House** was once the seat of the [[Ustalav|Ustalavic]] noble family of House Canter of [[Vieland]]. It burnt to the ground in [[4399 AR]], revealing a black, featureless, egg-like monument made of stone around which the building had been constructed. None of the Canter descendants admitted to having known about this nearly 33-foot-tall monument, and it remains a mystery to this day. Canter House was never rebuilt and it remains a blackened ruin to this day, sometimes known as the **Throne Between Sun and Stars**.

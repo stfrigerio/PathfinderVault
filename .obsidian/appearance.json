@@ -1,0 +1,13 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "its",
+    "Pathfinder2E-TTRPG-Statblock-v1.4",
+    "PF2e-Actions-Font",
+    "supercharged-links-gen"
+  ],
+  "baseFontSize": 16,
+  "accentColor": "",
+  "translucency": false
+}

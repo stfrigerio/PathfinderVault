@@ -1,0 +1,4 @@
+---
+Nation: Taldor
+---
+> The estate of **Treaclerun** is home to the ruler of [[Kazuhn Prefecture]], the Grand Duchess Mellea Denzarni, and is named for the decadent parties her ancestors used to throw there: parties where fountains of honey flowed like water. While appearing as little more than a hedonistic hunting lodge to escape from the strife of [[Taldor|Taldan]] politics, in reality, Treaclerun has a bloody history. Serving as the breadbasket of Taldor's capital, [[Oppara]], rulership of Kazuhn has generally fallen to only the most ruthless of Taldor's power players. The estate serves as a discrete location for shady deeds and sinister schemes. Almost every noble estate in Taldor boasts a handful of ghost stories associated with it, Treaclerun is a rare exception: no lingering [[Spectre|spectres]] haunt its ground. Rumour has it this is due to some strange but deliberate quirk of the estate's design.

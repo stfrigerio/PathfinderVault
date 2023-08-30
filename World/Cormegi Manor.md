@@ -1,0 +1,4 @@
+---
+Nation: Ustalav
+---
+> **Cormegi Manor** was once the seat of Hest Cormegi, a wealthy plantation owner in the southwest of [[Sinaria]] county in [[Ustalav]]. When the cheap and morally bankrupt Cormegi began to kidnap the youth of [[Graidmere Swamp]] to work his fields, the people rose up against him. They were no match for Cormegi's thugs, however, and afterwards the corrupt landowner simply used their bodies to fertilize the soil. The children were finally freed, when their dead parents arose from their tilled graves and murdered Cormegi and his men. Having nowhere to run, the young people decided to occupy the manor home and continue farming it, still under the watchful eyes of their [[Undead|undead]] progenitors. The place is now staunchly avoided by the swampers of the region.

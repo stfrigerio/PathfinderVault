@@ -1,0 +1,44 @@
+```leaflet
+id: kyonin-map
+image: [[kyoninmap.jpg]]
+height: 800px
+lat: 50
+long: 50
+minZoom: 9
+maxZoom: 10
+defaultZoom: 9
+unit: meters
+scale: 1
+
+darkMode: false
+
+marker: City,-0.2236328125,0.31249933679966047,Greengold
+marker: City,-0.3828125,0.10742088019949067,Erages
+marker: Woods,-0.1342926025390625,0.6833145426570458,Berm
+marker: City,-0.2763671875,0.5214827169991512,Omesta
+marker: Mountains,-0.4087066650390625,0.34433228989813236,Erithiel's Hall
+marker: City,-0.4833984375,0.3124990051994907,Avennara
+marker: River,-0.1089019775390625,0.7712350116723259,Glass River
+marker: Woods,-0.3388671875,0.7324228698005094,Walking Man
+marker: City,-0.2758941650390625,0.904092609295416,Siavenian
+marker: River,-0.2475738525390625,0.837663810483871,Endowhar River
+marker: River,-0.4165191650390625,0.731182353565365,Kyonin River
+marker: Interest,-0.4716796875,0.6025377360993208,Century Root
+marker: City,-0.6040191650390625,0.5133349692275042,Riverspire
+marker: Woods,-0.5727691650390625,0.780027058573854,Fierani Forest
+marker: Interest,-0.6587066650390625,0.6803838603565365,Imvrildara
+marker: Interest,-0.4975738525390625,0.9070232915959253,Wandering Spheres
+marker: Capital,-0.3701171875,0.9267584757003395,Iadara
+marker: Interest,-0.3125,1.234373673599321,Caruskei
+marker: River,-0.3227691650390625,1.421846482385399,Kallas Lake
+marker: Interest,-0.4228515625,1.054686173599321,Moonpool Causeways
+marker: Interest,-0.6123046875,1.25390625,Lethaquel
+marker: Interest,-0.6083984375,1.0507809183998302,Sun Dagger
+marker: Interest,-0.7397613525390625,1.0232736895161292,Shevaroth
+marker: Fortress,-0.7026519775390625,0.8699013157894737,Thorn's End
+marker: Interest,-0.6548004150390625,0.8142183520797963,Endless Cairn
+marker: Interest,-0.8125,0.8505849426994906,Arabrecht
+marker: Woods,-0.8852691650390625,0.7135982597623091,Cicatrix
+marker: Geography,-0.8774566650390625,0.8553069291171477,Tanglebriar
+marker: Fortress,-0.8251953125,0.7001933228989813,Witchbole
+```

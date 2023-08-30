@@ -1,0 +1,102 @@
+
+```leaflet
+id: taldor-map
+image: [[taldormap.jpg]]
+height: 1000px
+lat: 50
+long: 50
+minZoom: 8
+maxZoom: 10
+defaultZoom: 9
+unit: meters
+scale: 1
+
+darkMode: false
+
+marker: City,-1.2724609375,0.11816307039451401,Bellis
+marker: City,-1.7333984375,0.9814459739036573,Belhaim
+marker: City,-1.5361328125,0.6982392111835422,Wispil
+marker: Region,-1.6206207275390625,0.6274356189679986,Verduran Province
+marker: Fortress,-1.9208984375,0.4902340442981714,Wildwood Lodge
+marker: Woods,-1.94921875,0.8300774635963426,Verduran Forest
+marker: Interest,-1.3095703125,1.1132835649128006, Blackwood Moot
+marker: River,-1.7016754150390625,1.1920798896249578,Verduran Fork
+marker: River,-1.1128082275390625,1.6215970781832034,Brokenbridge River
+marker: Geography,-1.3681640625,2.267577463596343,Thousand Relics Pass
+marker: Mountains,-1.40234375,2.3574205521926856,Aroden's Eye
+marker: Mountains,-1.1083984375,2.3544911953945142,Pillars of Rovagug
+marker: City,-1.6772613525390625,2.0124406720919406,Faldamont
+marker: Mountains,-1.7485504150390625,2.068123584596173,World's Edge Mountains
+marker: Region,-1.8891754150390625,2.2312647493015576,World's Edge Province
+marker: Geography,-1.823272705078125,1.628944611412123,Tandak Plains
+marker: Interest,-2.1020660400390625,0.9988904953648831,Dunholme
+marker: Interest,-2.2368316650390625,1.2011073881434133,Bafra's Face
+marker: Interest,-2.3608551025390625,0.8777557383381306,Nazilli
+marker: Region,-2.6342926025390625,0.7368833733703014,Tandak Prefecture
+marker: City,-2.6806640625,0.4531236771926854,Hope's Hollow
+marker: Geography,-2.6147613525390625,0.4076703643540467,Blackwood Swamp
+marker: City,-2.6416015625,0.3164055885963427,Cassomir
+marker: Interest,-2.6767578125,1.0166018932018286,Temple Canyon
+marker: City,-2.7421875,0.9521507524128006,Evondemor
+marker: City,-2.2109375,1.5703128307018286,Dalaston
+marker: City,-1.9521484375,1.772459945394514,Maheto
+marker: Fortress,-2.0112457275390625,1.8453919345792413,Kravenkus
+marker: Geography,-2.294921875,1.779296875,Pergamon Pass
+marker: Interest,-2.4697265625,1.5947249089908566,Antios's Crown
+marker: Interest,-2.60546875,1.591794890789028,Pegaduor
+marker: Interest,-2.3608551025390625,0.8777557383381306,Nazilli
+marker: Interest,-2.5048828125,2.1171845236835423,House of the Senses Awakened
+marker: Geography,-2.4214019775390625,2.5119274228538773,Whistling Plains
+marker: City,-2.587890625,2.513669890789028,Stavian's Hold
+marker: Geography,-2.5903472900390625,2.225697714718083,Porthmos Gap
+marker: City,-2.779296875,1.7568362682018286,Karakuru
+marker: Region,-2.671875,2.3037539287377244,Porthmos Prefecture
+marker: City,-2.7744140625,2.1650390625,Sardis Township
+marker: Fortress,-2.892578125,2.3007802578945142,Porthmos Prison
+marker: City,-2.931640625,0.3154290260963427,Ridonport
+marker: River,-3.0278472900390625,0.5952629608660681,Jagged Saw
+marker: City,-2.9521484375,1.0029283646926854,Old Sehir
+marker: Region,-3.0131988525390625,1.0886320584998308,Opparos Prefecture
+marker: City,-2.9443359375,1.713866195394514,Kazuhn City
+marker: Fortress,-3.0205078125,1.7050797785091432,Treaclerun
+marker: City,-1.01953125,0.7919921875,Adrast
+marker: Interest,-0.875,0.9970696510963427,Torcova
+marker: Region,-0.9858551025390625,1.4284503444590246,Northern Tandak Prefecture
+marker: Region,-0.828125,2.08984375,Avin Prefecture
+marker: City,-0.6240234375,1.7304694114036572,Skathen
+marker: River,-0.5595703125,1.75,Fog Creek
+marker: City,-0.8940582275390625,1.877653882174907,Yanmass
+marker: Mountains,-0.4643707275390625,1.4118170345834744,Fog Peaks
+marker: City,-0.4345703125,1.6240240989036572,Brauhleigh's Hollow
+marker: Region,-2.9565582275390625,1.4783744153191667,Kazuhn Prefecture
+marker: City,-3.3359375,0.9931620782890281,Mut
+marker: Capital,-3.2348785400390625,1.2048443188071452,Oppara
+marker: Geography,-3.091796875,2.291015625,Emperor's Pass
+marker: City,-3.103515625,2.417967096490857,Tribulation
+marker: River,-3.126953125,1.6523467263164577,Porthmos River
+marker: Interest,-3.3305816650390625,1.7089592416610229,Kublan Grove
+marker: Region,-3.1411285400390625,1.9482980761090416,Ligos Prefecture
+marker: Fortress,-3.310546875,1.4091826638164577,Canalsguard
+marker: City,-3.1630859375,1.600583953289028,Elsekulp
+marker: City,-3.3173828125,1.4335924271926854,Pastorling
+marker: City,-3.2578125,2.1406150789451406,Elbistan
+marker: Fortress,-3.11328125,2.2646481067981714,Sanctum's Watch
+marker: City,-3.5546875,1.1845686589908566,Kozan
+marker: Mountains,-3.6015625,2.5800811013164577,Mount Kaltafarr
+marker: Region,-3.572265625,2.232421213596343,Whitemarch Prefecture
+marker: Region,-3.4458160400390625,1.6735764609083983,Lingian Prefecture
+marker: Geography,-3.5561676025390625,2.5459420901413816,Headwater Gap
+marker: City,-3.7529296875,2.4140621692981714,Lionsguard
+marker: City,-3.6962890625,2.569334614692685,Monastery of the Seven Forms
+marker: City,-3.5009765625,2.0185533646926856,Ortalaca
+marker: City,-3.693359375,1.3017588046054858,Merciful Bay
+marker: City,-3.734375,1.5263665260963428,Railford
+marker: Region,-3.6357421875,1.9482421875,Sophra Prefecture
+marker: Region,-3.7778472900390625,1.340806423023197,Moda Prefecture
+marker: City,-3.740234375,1.8300774635963428,Heldren
+marker: Woods,-3.7861328125,1.7646467839908566,Border Wood
+marker: City,-3.728515625,1.9941393021926854,Zimar
+marker: City,-3.837890625,1.3769524635963428,Golsifar
+marker: City,-3.9174957275390625,1.8435558780265833,Demgazi
+marker: River,-3.9165191650390625,1.5254392381688116,Jalrune River
+```

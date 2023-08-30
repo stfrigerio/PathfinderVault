@@ -1,0 +1,16 @@
+Be it known to all who would read this document, that by signing this Contract of Citizenship, the undersigned individual, henceforth referred to as the Citizen, willingly and without coercion or deception, enters into a binding agreement with Mengkare, the Gold Dragon, henceforth referred to as the Ruler, to abide by the terms and conditions set forth herein, for the purpose of creating a utopian society and achieving racial perfection.
+
+The Citizen acknowledges and affirms that the Ruler has created the island kingdom of Hermea as a place of unparalleled opportunity, where those who aspire to the highest ideals of good, wisdom, beauty, and strength may find a home, a purpose, and a community of like-minded individuals. The Citizen recognizes the Ruler's supreme authority over the island and its inhabitants, and consents to the following terms and conditions:
+
+1.  The Citizen shall conduct themselves at all times in a manner that reflects the highest principles of good, wisdom, beauty, and strength, as determined by the Ruler.
+2.  The Citizen shall respect the authority of the Ruler and his appointed agents, and shall obey all laws, regulations, and instructions issued by them, without question or hesitation.
+3.  The Citizen shall work diligently and selflessly towards the betterment of Hermea and its people, contributing their skills, talents, and resources as required by the Ruler, for the common good and the achievement of utopia.
+4.  The Citizen shall refrain from engaging in any activity that is harmful, dangerous, or disruptive to the community or to other citizens, including but not limited to theft, violence, deceit, and destruction of property.
+5.  The Citizen shall maintain a high level of personal hygiene and health, in order to prevent the spread of disease and ensure the well-being of the community.
+6.  The Citizen shall consent to periodic medical examinations and treatments, as required by the Ruler or his appointed agents, in order to maintain optimal health and prevent the spread of disease.
+7.  The Citizen shall respect and preserve the natural environment of Hermea, refraining from engaging in any activity that could harm or damage it, including but not limited to hunting, fishing, logging, and polluting.
+8.  The Citizen shall be provided with all necessary resources, including food, shelter, and medical care, as determined by the Ruler, in accordance with their skills, abilities, and role in the community.
+9.  The Citizen shall not leave Hermea without the express permission of the Ruler or his appointed agents, and shall not communicate any information about Hermea or its inhabitants to outsiders without authorization.
+10.  The Citizen acknowledges that, upon their death, their body shall become the property of the Ruler, and shall be used for medical research and experimentation, in order to advance the cause of utopia and racial perfection.
+
+The Citizen hereby declares their full and unconditional consent to the terms and conditions of this Contract of Citizenship, and affixes their signature and seal in the presence of witnesses, as a symbol of their commitment to the Glorious Endeavor and the creation of a utopian society on Hermea, under the guidance and wisdom of the Ruler.

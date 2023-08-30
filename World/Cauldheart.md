@@ -1,0 +1,4 @@
+---
+---
+> **Cauldheart** is a pit-like valley of grey stone in the [[Amaans]] peaks of the [[Hungry Mountains]], between [[Mount Aremetrus]] and [[Gristleknob]] in the nation of [[Ustalav]]. It stretches over three miles in the shape of a [[Human|human]] liver, and is so steep that no path leads to its depths; it is not considered scalable, and only ivy escapes from the pit. 
+> This dark location generates rumours, including the use of Cauldheart as a gigantic [[Witch|witches]]' cauldron used by covens to perform all manner of [[Evil|evil]]: [[Conjuration|summoning]] foul weather and evil [[God|gods]], crafting [[Slave|slave]] abominations, and corrupting the land.

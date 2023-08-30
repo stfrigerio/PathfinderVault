@@ -1,0 +1,3 @@
+---
+---
+> **Castle Penatha** was originally built in the [[World's Edge Mountains|Worlds Edge Mountains]] in [[Qadira]], but disappeared down to its foundation around [[4691 AR]]. Its fate remained unknown until it suddenly reappeared completely intact—with the addition of a tower with a golden cupola—near the summit of [[Mount Rectzaid]], in the mountains of the [[Ustalav|Ustalavic]] county of [[Ulcazar]]. It is now said to be the home of Isla Bellsan, the purple-cloaked, self-proclaimed greatest thief in [[Avistan]].

@@ -1,0 +1,7 @@
+---
+Nation: Katapesh
+---
+> The **Three Stars** is the name given to a set of three pyramids that reside in southeastern [[Katapesh]], within 20 miles of the Katapeshi coastline and [[Obari Ocean]]. The pyramids are made of yellow stone and topped with a large shining crystal that supposedly repairs itself if damaged.
+> Each pyramid is only 12 feet tall, small when compared with Katapeshi sites like the [[Red Pyramid]] or the [[Glass Pyramids]] and tiny when compared with [[Osirion|Osirions]] vast structures. There are no known entrances to the pyramids, and they are subject to the usual rumors suggesting that the pyramids hide either a [[Dragon|dragons]] horde, a dead king's treasure, or undead [[Genie|genies]].
+> One of the more unusual and most prominent rumor is that the pyramids hide the remains of some sort of benevolent being described as either beings of living flame, beautiful maidens, or feathered serpents (possibly describing a [[Lillend|lillend]] [[Azata|azata]]) that sleeps beneath the pyramids.
+> The rumours also suggest that one day the sleepers will awaken. One such story claims that this will happen when [[Golarion]] becomes too [[Chaos|chaotic]], while according to another rumor there is a fourth pyramid that can be used to awaken the sleepers.

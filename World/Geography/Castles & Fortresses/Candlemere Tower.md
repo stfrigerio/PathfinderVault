@@ -1,0 +1,4 @@
+---
+Nation: River Kigndoms
+---
+> **Candlemere Tower** is a tower sacred to the cult of [[Yog-Sothoth]], located in the [[Stolen Lands]] of the [[River Kingdoms]]. It has the power to open [[Portal|portals]] between [[Planet|planets]] if the correct [[Occult ritual|rituals]] are performed on the night of the [[Winter solstice|winter solstice]]. Recently, the [[Investigator|investigator]] Olun Shandus, after learning of the tower's existence from a copy of the *Pnakotic Manuscripts*, travelled to [[Candlemere]] with a small group of companions, but their ritual proved faulty, depositing them on a world long consumed by [[Bhole|bholes]] and allowing the bholes to burrow into the Stolen Lands.

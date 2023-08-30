@@ -1,0 +1,12 @@
+> **This page contains spoilers for the following products**: *[[Songbird Scion Saboteur]]*.You can disable this banner in your [[pathfinderwikicomSpecialPreferencesmw-prefsection-gadgets|personal preferences]].
+> The **Palace of Birdsong** is one of the traditional estates of [[Taldor|Taldors]] current ruling family, House Stavian. Since the family rose to rule the land, the palace has been entrusted to House Lotheed as seneschals. The Palace of Birdsong sits at the heart of the Stavian Barony in the [[Meratt|Meratt County]] area of the [[Tandak Prefecture]]. The Lotheeds have now had the run of the Palace of Birdsong for the past two centuries. The palace is a reminder of the excessive splendour of old Taldor, replete with beautiful carvings, stunning murals, artful frescos, and other breathtaking [[Architectural|architectural]] features. It oozes wealth, taste, and fabulous opulence.
+> Outside, the Palace of Birdsong boasts extensive grounds with miles of intricately decorated gardens that include laburnum trees, flower gardens, orchards, and vineyards. Some say these grounds are even guarded by [[Magic|magical]] [[Living topiary|living topiaries]]. Within, the palace itself boasts eight sumptuous guest rooms, a library, a vast marble-lined ballroom, and dozens of other rooms.
+> House Lotheed has left its [[Arcane magic|arcane]] mark on the Palace of Birdsong, adding a magical library, secret [[Laboratory|laboratory]], and [[Magic/Conjuration|conjuring]] chamber. The current master of the palace is [[Bartelby Lotheed|Count Bartelby Lotheed]], a gifted but cruel [[Magus|magus]] who rules the surrounding lands like his own personal kingdom. House Lotheed has not only brought the usual aristocratic hangers-on (like [[Titus Lotheed-Casava|Lord Titus Lotheed-Casava]], Dame Carodd Hellebore, and Syras Cockleburr Esq.) but other more arcane and bizarre inhabitants into the palace. Mercater Lotheed's [[Bestiary/Ghost|ghost]] now haunts the estate, murdered by a vile [[Sahkil|sahkil]] [[Ichkoh|ichkoh]] named Ehlers (a servant of his own relative, the powerful [[Wizard|wizard]] [[Panivar Lotheed]]) who still roams the palace's halls. Similarly, a [[Trompe l'oeil|trompe loeil]] of Paniver's wife, [[Veleto Lotheed|Duchess Veleto Lotheed]], also haunts the hallways of the Palace of Birdsong. Finally, an [[Attic whisperer|attic whisperer]] created during one of Bartleby's blasphemous arcane experiments remains imprisoned within a forsaken nursery.
+
+
+
+
+
+
+
+

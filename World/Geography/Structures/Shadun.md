@@ -1,0 +1,4 @@
+---
+Nation: Qadira
+---
+> The ruins of the [[Qadira|Qadiran]] town of **Shadun** are located in the eastern foothills of the [[Zho Mountains]], on the opposite side of the mountain range from [[Gurat]]. The hillsides around the town were once covered in terrace farms watered by the tributaries of the [[Pashman River]], and criss-crossed with green trails. Tragedy struck when the nearby [[Volcano|volcanoes]] [[Zhonar]] and [[Zhobl]] began spewing great clouds of dust and ash that covered the countryside, forcing the town's inhabitants to flee. No one is quite sure what happened to the citizens of Shadun, and today its desolate streets are stalked at night by strange shadowy figures with eyes like glowing embers.

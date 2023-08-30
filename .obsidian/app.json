@@ -1,0 +1,22 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Utilities/Media/Immagini/Attachments",
+  "readableLineLength": false,
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false,
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 80
+  },
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "it",
+    "en"
+  ]
+}

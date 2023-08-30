@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"file","file":"World/Geography/Cities/Promise.md","id":"526069e80eb5c5d4","x":-520,"y":-160,"width":880,"height":639},
+		{"type":"file","file":"Utilities/Media/Immagini/Mappe/promisemap.jpg","id":"c5e3a5ac1fcfd365","x":765,"y":-640,"width":781,"height":600},
+		{"type":"file","file":"World/NPCs/Mengkare.md","id":"c77fff0285c16219","x":-2240,"y":810,"width":896,"height":600},
+		{"type":"file","file":"World/Geography/Structures/Alseta's Ring.md","id":"0a9c14df3c1d5668","x":-680,"y":1465,"width":760,"height":600},
+		{"type":"file","file":"World/Religion/Deities/Dahak.md","id":"c624144d126e5b7f","x":160,"y":1410,"width":400,"height":710},
+		{"id":"91c775116a0932bd","x":-1744,"y":2065,"width":400,"height":400,"type":"file","file":"World/Culture/Festivities & Events/Convocation of Dragons.md"}
+	],
+	"edges":[
+		{"id":"cbdbd6dccda8cb4f","fromNode":"0a9c14df3c1d5668","fromSide":"top","toNode":"526069e80eb5c5d4","toSide":"bottom"},
+		{"id":"2cc3722882467196","fromNode":"c77fff0285c16219","fromSide":"right","toNode":"0a9c14df3c1d5668","toSide":"left"},
+		{"id":"75567989bacd9e1a","fromNode":"0a9c14df3c1d5668","fromSide":"right","toNode":"c624144d126e5b7f","toSide":"left"},
+		{"id":"c0635e9474ac0b5b","fromNode":"526069e80eb5c5d4","fromSide":"bottom","toNode":"c624144d126e5b7f","toSide":"top"},
+		{"id":"21d25cecfa0500a6","fromNode":"526069e80eb5c5d4","fromSide":"top","toNode":"c5e3a5ac1fcfd365","toSide":"left"},
+		{"id":"2a9efc5aae24ec63","fromNode":"c77fff0285c16219","fromSide":"right","toNode":"526069e80eb5c5d4","toSide":"left"},
+		{"id":"c9c50cba69b3aacf","fromNode":"c77fff0285c16219","fromSide":"bottom","toNode":"91c775116a0932bd","toSide":"top"}
+	]
+}

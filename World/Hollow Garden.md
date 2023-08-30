@@ -1,0 +1,13 @@
+> The **Hollow Garden** is a large entertainment module of the [[Spaceship|spaceship]] *[[Divinity]]* which was detached from its deck and slammed into [[Numeria]], in the area now called [[Sovereign's Reach|Sovereigns Reach]], during the [[Rain of Stars]]. It is currently run by [[Celmak Toysiel]], a malfunctioning [[Mannequin robot|mannequin robot]], who turned it into a [[Trap|trap]] for [[Adventurer|adventurers]] who have to provide 'entertainment' by traversing a [[Dungeon|dungeon]] customised by Celmak that only ends with their deaths.
+> Celmak uses the entertainment module's remaining functional sensors to scan for potential victims. When someone approaches within a mile of the Hollow Garden, it begins to emit pulses and holograms (particularly idyllic gardens) to entice them. The doors to the bunker are always open with flickering lights, outwardly resembling a recently opened, malfunctioning, undefended section of the *Divinity*, ripe for plunder. Once the prey enters, the door seals and the only escape from that point is death; no [[Teleportation|teleportation]] is possible within the Garden.
+> Celmak then greets explorers and explains that they are destined to make history; if they survive, then the rewards will be great, turning them into heroes rich beyond imagining. At the same time, it also scans their brains for their emotions and abilities, and analyses them to optimise the entertainment it provides, before opening the doors to the Hollow Garden. As its guests traverse the dungeon, fighting [[Robot|robots]], and overcoming obstacles, Celmak records their thoughts and actions via hidden [[Camera|cameras]], and crafts each encounter to test the responses of explorers, sometimes releasing psychoactive chemicals to 'heighten the drama', or offering commentary if its victims are having a too easy or too hard a time. Occasionally, a minor item from Celmak's hoard is given to its current victims, hand-picked to prolong the entertainment but never allowing success.
+> In addition to Celmak and its robots, the Hollow Garden has recently become refuge to a group of [[Demon|demons]] fleeing the [[Worldwound]]. They accepted Celmak's offer to be occasionally sent into scenes as desired, but their leader Vlathherex found that they cannot teleport within the Hollow Garden, and now suspects that Celmak will never allow them to leave, and seeks to disable this lock.
+
+
+
+
+
+
+
+
+Retrieved from "[[httpspathfinderwikicomwindexphptitleHollow Gardenoldid313969]]"

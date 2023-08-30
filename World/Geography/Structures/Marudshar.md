@@ -1,0 +1,6 @@
+---
+Nation: Katapesh
+---
+> **Marudshar** is an ancient, sand-worn, and supposedly cursed temple ruin in a steep canyon in the [[Brazen Peaks]]. The ruins of the temple consist of dozens of toppled pillars and many strange-looking statues that have had most of their recognizable features scoured off by the wind.
+> The site also includes the **Path of the Traveler**, which is a huge crumbling gateway carved with images of [[Sphinx|sphinx]]-like creatures, and the **Sacrament of the Faithless**, a 63-foot-tall pillar carved to look like it is made of writhing [[Human|humans]] who have been turned to stone. What god was worshiped here is unknown; the area is not spoken of by locals, and curious visitors are deterred from their visit by a pack of [[Lion|lions]] that roam the valley.
+> While a normal lion would prove little discouragement to seasoned adventurers, these lions are different: they are an all-male pride, larger in number than a lion pride should be, they have completely black, soulless eyes, and they can speak to each other in some horrible, guttural language.

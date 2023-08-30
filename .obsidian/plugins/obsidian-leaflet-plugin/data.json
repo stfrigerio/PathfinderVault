@@ -1,0 +1,3784 @@
+{
+  "mapMarkers": [
+    {
+      "id": "biggest_wow",
+      "lastAccessed": 1680626187139,
+      "markers": [
+        {
+          "id": "ID_5af8284a784a",
+          "type": "default",
+          "loc": [
+            -1.916015625,
+            7.056640625
+          ],
+          "link": "Pallesburg",
+          "layer": "%5B%5Bthe%20biggest%20map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5161428571428571,
+            0.23886048210372535
+          ],
+          "description": "Qui la ridente città di Pallesburg",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Untitled.md"
+      ]
+    },
+    {
+      "id": "kyonin-map",
+      "lastAccessed": 1682970093825,
+      "markers": [
+        {
+          "id": "ID_0b6afbfa4a7a",
+          "type": "City",
+          "loc": [
+            -0.4833984375,
+            0.3124990051994907
+          ],
+          "link": "Avennara",
+          "layer": "%5B%5Bkyoninmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.20460292923547216,
+            0.48720472440944884
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4acb48f85999",
+          "type": "City",
+          "loc": [
+            -0.2763671875,
+            0.5214827169991512
+          ],
+          "link": "Omesta",
+          "layer": "%5B%5Bkyoninmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3414311395186258,
+            0.2785433070866142
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Kyonin Map.md"
+      ]
+    },
+    {
+      "id": "irrisen-map",
+      "lastAccessed": 1682970093825,
+      "markers": [
+        {
+          "id": "ID_ea7bcb1b4ad9",
+          "type": "Mountains",
+          "loc": [
+            -1.662322998046875,
+            1.087890625
+          ],
+          "link": "Kodar Mountains",
+          "layer": "%5B%5Birrisenmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Irrisen Map.md"
+      ]
+    },
+    {
+      "id": "belkzen-map",
+      "lastAccessed": 1682976055299,
+      "markers": [
+        {
+          "id": "ID_c83adb2ba9ca",
+          "type": "City",
+          "loc": [
+            -0.874218746089911,
+            0.67304895876747
+          ],
+          "link": "Scarwall",
+          "layer": "%5B%5Bhold%20of%20belzken.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4853536153365417,
+            0.382237402218646
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1948489bb8f8",
+          "type": "City",
+          "loc": [
+            -1.5455077740666858,
+            0.6394528571996774
+          ],
+          "link": "Heliu's Folly",
+          "layer": "%5B%5Bhold%20of%20belzken.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.46168966862095945,
+            0.6767719897523484
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a695b6bcb4b",
+          "type": "Region",
+          "loc": [
+            -0.595123291015625,
+            0.5053066412877503
+          ],
+          "link": "Dirt Sea",
+          "layer": "%5B%5Bhold%20of%20belzken.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Hold of Belkzen Map.md"
+      ]
+    },
+    {
+      "id": "mammoth-map",
+      "lastAccessed": 1683055317153,
+      "markers": [
+        {
+          "id": "ID_7a5808286988",
+          "type": "Interest",
+          "loc": [
+            -0.361328125,
+            0.4013671875
+          ],
+          "link": "Veil of Frozen Tears",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.1669374492282697,
+            0.18592964824120603
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_391819b9ca3b",
+          "type": "City",
+          "loc": [
+            -0.3760833740234375,
+            0.4990234375
+          ],
+          "link": "Icestair",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2819fa4bbb1a",
+          "type": "River",
+          "loc": [
+            -0.615234375,
+            0.5224609375
+          ],
+          "link": "Little Tusk",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2173030056864338,
+            0.3165829145728643
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8d87858ebbb",
+          "type": "River",
+          "loc": [
+            -0.8223724365234375,
+            0.67578125
+          ],
+          "link": "Frozen Road",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_baba09386a7a",
+          "type": "Mountains",
+          "loc": [
+            -0.787109375,
+            0.9892578125
+          ],
+          "link": "Tusk Mountains",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.41145410235580826,
+            0.4050251256281407
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_496a8bc9093a",
+          "type": "Fortress",
+          "loc": [
+            -0.3692474365234375,
+            0.9814453125
+          ],
+          "link": "Bos-Phargrumm",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9aaa5b580869",
+          "type": "Interest",
+          "loc": [
+            -0.9249114990234375,
+            0.080078125
+          ],
+          "link": "Tashagrot",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a282a488b2b",
+          "type": "River",
+          "loc": [
+            -1.1163177490234375,
+            0.25390625
+          ],
+          "link": "Gullik River",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fadb9b1b79ca",
+          "type": "City",
+          "loc": [
+            -1.10546875,
+            1.154296875
+          ],
+          "link": "Hillcross",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4800974817221771,
+            0.5688442211055277
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_68e9680a89d9",
+          "type": "Geography",
+          "loc": [
+            -0.5958099365234375,
+            1.333984375
+          ],
+          "link": "Ginji Mesa",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99296abb0bf8",
+          "type": "Interest",
+          "loc": [
+            -0.419921875,
+            1.4228515625
+          ],
+          "link": "Mammoth Graveyard (Tusk Mountains)",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5917952883834281,
+            0.21608040201005024
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6aa8695af86b",
+          "type": "Geography",
+          "loc": [
+            -0.2676849365234375,
+            1.009765625
+          ],
+          "link": "Thremyr's Steps",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_297be909b968",
+          "type": "Interest",
+          "loc": [
+            -0.34375,
+            1.71484375
+          ],
+          "link": "Earthnavel",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7132412672623883,
+            0.17688442211055277
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_784b690908e9",
+          "type": "City",
+          "loc": [
+            -0.3388671875,
+            2.0244140625
+          ],
+          "link": "Jormurdun",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8419983753046304,
+            0.1743718592964824
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48ca6bf97abb",
+          "type": "City",
+          "loc": [
+            -0.1708984375,
+            2.046875
+          ],
+          "link": "Tolguth",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.851340373679935,
+            0.08793969849246232
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f93969db68fa",
+          "type": "Geography",
+          "loc": [
+            -0.275390625,
+            2.1650390625
+          ],
+          "link": "Red Rune Canyon",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9004874086108855,
+            0.14170854271356784
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9bfa0ac8cbdb",
+          "type": "Region",
+          "loc": [
+            -0.8447265625,
+            1.8857421875
+          ],
+          "link": "Thunder Steppes",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7843216896831844,
+            0.43467336683417085
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6899b97b9a78",
+          "type": "Region",
+          "loc": [
+            -1.52734375,
+            1.095703125
+          ],
+          "link": "Algid Wastes",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.45572705117790413,
+            0.785929648241206
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e85bea5938ab",
+          "type": "Geography",
+          "loc": [
+            -1.66015625,
+            0.73828125
+          ],
+          "link": "Broken Shore",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.30706742485783917,
+            0.8542713567839196
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8b99a88f8ca",
+          "type": "River",
+          "loc": [
+            -1.4453125,
+            0.748046875
+          ],
+          "link": "Gullik River",
+          "layer": "%5B%5Bmammothmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.31112916328188467,
+            0.7437185929648241
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Realm of the Mammoth Lords Map.md"
+      ]
+    },
+    {
+      "id": "linnorm-map",
+      "lastAccessed": 1683385708513,
+      "markers": [
+        {
+          "id": "ID_6a9a38cb2b09",
+          "type": "Geography",
+          "loc": [
+            -1.157135009765625,
+            1.25390625
+          ],
+          "link": "Kalva",
+          "layer": "%5B%5Blinnorm%20lands.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a2beb9b9b9b",
+          "type": "City",
+          "loc": [
+            -0.953125,
+            2.7060546875
+          ],
+          "link": "Ullerskad",
+          "layer": "%5B%5Blinnorm%20lands.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6990413723511605,
+            0.3791763791763792
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9a97a9ab83a",
+          "type": "River",
+          "loc": [
+            -1.034088134765625,
+            2.822265625
+          ],
+          "link": "Rimeflow River",
+          "layer": "%5B%5Blinnorm%20lands.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b889d8395b18",
+          "type": "River",
+          "loc": [
+            -0.705963134765625,
+            3.3125
+          ],
+          "link": "Iceflow",
+          "layer": "%5B%5Blinnorm%20lands.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aaf98a0a694b",
+          "type": "River",
+          "loc": [
+            -1.6675517112016678,
+            1.6454427190130667
+          ],
+          "link": "Black Tarn",
+          "layer": "%5B%5Blinnorm%20lands.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5bb9589b7839",
+          "type": "Geography",
+          "loc": [
+            -1.6236063987016678,
+            1.6473952852706897
+          ],
+          "link": "Dragon's Rib",
+          "layer": "%5B%5Blinnorm%20lands.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a89bb3b2919",
+          "type": "Geography",
+          "loc": [
+            -1.9305725395679474,
+            1.9028559975846224
+          ],
+          "link": "Antler Rock",
+          "layer": "%5B%5Blinnorm%20lands.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c998da1938ab",
+          "type": "Fortress",
+          "loc": [
+            -2.015858978033066,
+            1.606391393860609
+          ],
+          "link": "Thunderhold",
+          "layer": "%5B%5Blinnorm%20lands.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89e9781a5a4a",
+          "type": "City",
+          "loc": [
+            -2.089518219232559,
+            1.7415371834606383
+          ],
+          "link": "Averaka",
+          "layer": "%5B%5Blinnorm%20lands.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.44988246111596714,
+            0.8312613273093009
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cad8c81bd99b",
+          "type": "Story",
+          "loc": [
+            -2.109608978033066,
+            1.5175496291387676
+          ],
+          "link": "Orcmoot",
+          "layer": "%5B%5Blinnorm%20lands.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Linnorm Kingdoms Map.md"
+      ]
+    },
+    {
+      "id": "rahadoum-map",
+      "lastAccessed": 1683387412139,
+      "markers": [
+        {
+          "id": "ID_b99aea686858",
+          "type": "River",
+          "loc": [
+            -0.384979248046875,
+            0.3828125
+          ],
+          "link": "Desperation Bay",
+          "layer": "%5B%5Bsargavamap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab2a0bcbcabb",
+          "type": "Region",
+          "loc": [
+            -0.5616302490234375,
+            0.365234375
+          ],
+          "link": "Smuggler's Shiv",
+          "layer": "%5B%5Bsargavamap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "worldwound-map",
+      "lastAccessed": 1683889957159,
+      "markers": [
+        {
+          "id": "ID_abeb58dbcafa",
+          "type": "City",
+          "loc": [
+            -0.427734375,
+            2.8466796875
+          ],
+          "link": "Drezen",
+          "layer": "%5B%5Bworldwoundmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8844053398058253,
+            0.20738636363636365
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7bcb99880909",
+          "type": "River",
+          "loc": [
+            -2.010467529296875,
+            1.294921875
+          ],
+          "link": "Moutray River",
+          "layer": "%5B%5Bworldwoundmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Worldwound Map.md"
+      ]
+    },
+    {
+      "id": "wyvernsting-map",
+      "lastAccessed": 1684280946239,
+      "markers": [
+        {
+          "id": "ID_cb5bc868187b",
+          "type": "Interest",
+          "loc": [
+            -0.44467777013778687,
+            2.43906127081547
+          ],
+          "link": "Wyvernsting Logging Camp",
+          "layer": "%5B%5BWyvrensting.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "World/Geography/Cities/Wyvernsting.md"
+      ]
+    },
+    {
+      "id": "cheliax-map",
+      "lastAccessed": 1684923358197,
+      "markers": [
+        {
+          "id": "ID_1a184bea0b4b",
+          "type": "City",
+          "loc": [
+            -0.40850830078125,
+            3.5029296875
+          ],
+          "link": "Cypress Point",
+          "layer": "%5B%5Bcheliaxmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0aa829aa2b39",
+          "type": "Region",
+          "loc": [
+            -0.43585205078125,
+            3.19140625
+          ],
+          "link": "Vyre Island",
+          "layer": "%5B%5Bcheliaxmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f96b49199869",
+          "type": "City",
+          "loc": [
+            -0.29620361328125,
+            3.2001953125
+          ],
+          "link": "Vyre",
+          "layer": "%5B%5Bcheliaxmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bd8cbba498b",
+          "type": "River",
+          "loc": [
+            -0.2470703125,
+            3.4921875
+          ],
+          "link": "Nisroch Bay",
+          "layer": "%5B%5Bcheliaxmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.47591163162097416,
+            0.06299800796812749
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_594a2a8a2a38",
+          "type": "Region",
+          "loc": [
+            -0.1181640625,
+            3.09375
+          ],
+          "link": "Deepmar",
+          "layer": "%5B%5Bcheliaxmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.42161298908703754,
+            0.03012948207171315
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8db4b09cbfa",
+          "type": "Interest",
+          "loc": [
+            -2.1201171875,
+            4.0712890625
+          ],
+          "link": "Citadel Darvhage",
+          "layer": "%5B%5Bcheliaxmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5548309821666223,
+            0.5405876494023905
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b3be8cbcbdb",
+          "type": "Region",
+          "loc": [
+            -2.212615966796875,
+            6.3466796875
+          ],
+          "link": "Archduchy of Sirmium",
+          "layer": "%5B%5Bcheliaxmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8e80a4aebfb",
+          "type": "River",
+          "loc": [
+            -2.419647216796875,
+            6.3388671875
+          ],
+          "link": "Brastle River",
+          "layer": "%5B%5Bcheliaxmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9819f82bba1a",
+          "type": "City",
+          "loc": [
+            -2.587890625,
+            6.310546875
+          ],
+          "link": "Laekastel",
+          "layer": "%5B%5Bcheliaxmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8599946766036731,
+            0.6598605577689243
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c998cab848ab",
+          "type": "Interest",
+          "loc": [
+            -2.712615966796875,
+            5.6875
+          ],
+          "link": "Deng",
+          "layer": "%5B%5Bcheliaxmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a7acaa85b9a",
+          "type": "River",
+          "loc": [
+            -2.741912841796875,
+            6.2333984375
+          ],
+          "link": "Bay of Deng",
+          "layer": "%5B%5Bcheliaxmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39ab7a58ba6b",
+          "type": "City",
+          "loc": [
+            -2.775390625,
+            6.7548828125
+          ],
+          "link": "Ostenso",
+          "layer": "%5B%5Bcheliaxmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9205483098216662,
+            0.7076693227091634
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aaba3be869b8",
+          "type": "Fortress",
+          "loc": [
+            -2.934295654296875,
+            6.689453125
+          ],
+          "link": "Citadel Krane",
+          "layer": "%5B%5Bcheliaxmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9992baa08f9",
+          "type": "Geography",
+          "loc": [
+            -3.0263671875,
+            6.59375
+          ],
+          "link": "Cape Erebus",
+          "layer": "%5B%5Bcheliaxmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.898589299973383,
+            0.7716633466135459
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19ab688b392b",
+          "type": "City",
+          "loc": [
+            -2.048828125,
+            6.6689453125
+          ],
+          "link": "Brastlewark",
+          "layer": "%5B%5Bcheliaxmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9088368379025819,
+            0.522410358565737
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b589aa89a4b",
+          "type": "River",
+          "loc": [
+            -1.630859375,
+            6.5498046875
+          ],
+          "link": "Keld River",
+          "layer": "%5B%5Bcheliaxmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8926004791056694,
+            0.4158366533864542
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0bdb29d8dadb",
+          "type": "City",
+          "loc": [
+            -1.54296875,
+            6.375
+          ],
+          "link": "Misarias",
+          "layer": "%5B%5Bcheliaxmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8687782805429864,
+            0.3934262948207171
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Cheliax Map.md"
+      ]
+    },
+    {
+      "id": "razmiran-map",
+      "lastAccessed": 1685543869685,
+      "markers": [
+        {
+          "id": "ID_8a1a0a1bb9fb",
+          "type": "Interest",
+          "loc": [
+            -0.280181884765625,
+            0.0576171875
+          ],
+          "link": "Coastal Cairns",
+          "layer": "%5B%5Brazmiranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8688938c9ba",
+          "type": "Region",
+          "loc": [
+            -0.279205322265625,
+            0.326171875
+          ],
+          "link": "Tracks",
+          "layer": "%5B%5Brazmiranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9bb080a8bbb",
+          "type": "Capital",
+          "loc": [
+            -0.548736572265625,
+            0.2783203125
+          ],
+          "link": "Thronestep",
+          "layer": "%5B%5Brazmiranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0bd85a39ba58",
+          "type": "Fortress",
+          "loc": [
+            -0.494140625,
+            0.5517578125
+          ],
+          "link": "First Step",
+          "layer": "%5B%5Brazmiranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.42227204783258593,
+            0.44076655052264807
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab9ac88ae9db",
+          "type": "City",
+          "loc": [
+            -0.838775634765625,
+            0.6279296875
+          ],
+          "link": "Pilgrimage",
+          "layer": "%5B%5Brazmiranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb086b5b3929",
+          "type": "Interest",
+          "loc": [
+            -0.74609375,
+            0.8203125
+          ],
+          "layer": "%5B%5Brazmiranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d90bbaea8828",
+          "type": "Woods",
+          "loc": [
+            -0.770416259765625,
+            0.8515625
+          ],
+          "link": "Vergan Forest",
+          "layer": "%5B%5Brazmiranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aac9c8eb192a",
+          "type": "City",
+          "loc": [
+            -0.7578125,
+            0.9033203125
+          ],
+          "link": "Whispertruth",
+          "layer": "%5B%5Brazmiranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aba9383a7b38",
+          "type": "Woods",
+          "loc": [
+            -0.5478515625,
+            0.6025390625
+          ],
+          "link": "Exalted Wood",
+          "layer": "%5B%5Brazmiranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f95beb39d869",
+          "type": "Interest",
+          "loc": [
+            -0.337890625,
+            0.333984375
+          ],
+          "link": "Forgotten Track",
+          "layer": "%5B%5Brazmiranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59badb3bca0a",
+          "type": "City",
+          "loc": [
+            -0.352447509765625,
+            0.705078125
+          ],
+          "link": "Allenstead",
+          "layer": "%5B%5Brazmiranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d96b69bb0af8",
+          "type": "Interest",
+          "loc": [
+            -0.90234375,
+            0.84765625
+          ],
+          "link": "Aerduin's Folly",
+          "layer": "%5B%5Brazmiranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b78c839d8d9",
+          "type": "City",
+          "loc": [
+            -1.072174072265625,
+            0.9794921875
+          ],
+          "link": "Xer",
+          "layer": "%5B%5Brazmiranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb9b09999ba8",
+          "type": "River",
+          "loc": [
+            -0.916900634765625,
+            0.4052734375
+          ],
+          "link": "Lake Encarthan",
+          "layer": "%5B%5Brazmiranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b3adbe9e969",
+          "type": "River",
+          "loc": [
+            -0.545806884765625,
+            0.892578125
+          ],
+          "link": "West Sellen River",
+          "layer": "%5B%5Brazmiranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6abbebab7a98",
+          "type": "River",
+          "loc": [
+            -1.079986572265625,
+            1.1279296875
+          ],
+          "link": "Glass River",
+          "layer": "%5B%5Brazmiranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88184ab9faaa",
+          "type": "Fortress",
+          "loc": [
+            -1.021392822265625,
+            0.8876953125
+          ],
+          "link": "Fort Agate",
+          "layer": "%5B%5Brazmiranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a79c9d9a8fb",
+          "type": "Interest",
+          "loc": [
+            -0.8310546875,
+            0.8642578125
+          ],
+          "link": "Gensmaren",
+          "layer": "%5B%5Brazmiranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Razmiran Map.md"
+      ]
+    },
+    {
+      "id": "riverkingdoms-map",
+      "lastAccessed": 1685905759793,
+      "markers": [
+        {
+          "id": "ID_ea89594a1978",
+          "type": "Interest",
+          "loc": [
+            -0.45703125,
+            0.746094742105486
+          ],
+          "link": "Bodie's Haunt",
+          "layer": "%5B%5Briverkingdomsmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.18995549873595666,
+            0.19663865546218487
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8d98abacb19",
+          "type": "Woods",
+          "loc": [
+            -1.3667144775390625,
+            0.8728173679309177
+          ],
+          "link": "Shroudwood",
+          "layer": "%5B%5Briverkingdomsmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b38795b6b9a",
+          "type": "City",
+          "loc": [
+            -0.5200347900390625,
+            0.8573001767270573
+          ],
+          "link": "Farhaven",
+          "layer": "%5B%5Briverkingdomsmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/River Kingdoms Map.md"
+      ]
+    },
+    {
+      "id": "taldor-map",
+      "lastAccessed": 1685905759793,
+      "markers": [
+        {
+          "id": "ID_baf8bb384b18",
+          "type": "Region",
+          "loc": [
+            -0.9858551025390625,
+            1.4284503444590246
+          ],
+          "link": "Northern Tandak Prefecture",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9c9ba68b8da",
+          "type": "Interest",
+          "loc": [
+            -0.875,
+            0.9970696510963427
+          ],
+          "link": "Torcova",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.36334495470557115,
+            0.2178988326848249
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6809d8dadb79",
+          "type": "Mountains",
+          "loc": [
+            -0.4643707275390625,
+            1.4118170345834744
+          ],
+          "link": "Fog Peaks",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f80a2ba89b3b",
+          "type": "City",
+          "loc": [
+            -0.6240234375,
+            1.7304694114036572
+          ],
+          "link": "Skathen",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6306052232303718,
+            0.1553988326848249
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a38c819186b",
+          "type": "City",
+          "loc": [
+            -0.4345703125,
+            1.6240240989036572
+          ],
+          "link": "Brauhleigh's Hollow",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5918151876431833,
+            0.10821984435797666
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb19881ba9cb",
+          "type": "River",
+          "loc": [
+            -0.5595703125,
+            1.75
+          ],
+          "link": "Fog Creek",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6377224199288256,
+            0.13934824902723736
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db6ac90b8aa8",
+          "type": "Region",
+          "loc": [
+            -0.828125,
+            2.08984375
+          ],
+          "link": "Avin Prefecture",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7622734826637487,
+            0.20573929961089493
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4848092be958",
+          "type": "City",
+          "loc": [
+            -0.8940582275390625,
+            1.877653882174907
+          ],
+          "link": "Yanmass",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a78b9aa3a48",
+          "type": "Mountains",
+          "loc": [
+            -1.1083984375,
+            2.3544911953945142
+          ],
+          "link": "Pillars of Rovagug",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8580067559017731,
+            0.27602140077821014
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1aeb38480828",
+          "type": "River",
+          "loc": [
+            -1.1128082275390625,
+            1.6215970781832034
+          ],
+          "link": "Brokenbridge River",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48384a9bdb18",
+          "type": "Geography",
+          "loc": [
+            -1.3681640625,
+            2.267577463596343
+          ],
+          "link": "Thousand Relics Pass",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8263342785489876,
+            0.3407101167315175
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a6b28bb8aaa",
+          "type": "Mountains",
+          "loc": [
+            -1.40234375,
+            2.3574205521926856
+          ],
+          "link": "Aroden's Eye",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8604973770566876,
+            0.34849221789883267
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5aebfbe85a09",
+          "type": "Mountains",
+          "loc": [
+            -1.7485504150390625,
+            2.068123584596173
+          ],
+          "link": "World's Edge Mountains",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0908db4919e9",
+          "type": "Region",
+          "loc": [
+            -1.8891754150390625,
+            2.2312647493015576
+          ],
+          "link": "World's Edge Province",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a58582bf94a",
+          "type": "City",
+          "loc": [
+            -1.6772613525390625,
+            2.0124406720919406
+          ],
+          "link": "Faldamont",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cadb197a5a78",
+          "type": "City",
+          "loc": [
+            -1.9521484375,
+            1.772459945394514
+          ],
+          "link": "Maheto",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6459071117736592,
+            0.48613813229571984
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98bb2bfaa91b",
+          "type": "Fortress",
+          "loc": [
+            -2.0112457275390625,
+            1.8453919345792413
+          ],
+          "link": "Kravenkus",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a4b3a1b4b3b",
+          "type": "Interest",
+          "loc": [
+            -2.4697265625,
+            1.5947249089908566
+          ],
+          "link": "Antios's Crown",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5811381874756716,
+            0.6150291828793775
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9aafac8d95b",
+          "type": "Geography",
+          "loc": [
+            -2.294921875,
+            1.779296875
+          ],
+          "link": "Pergamon Pass",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b28ead9d8ab",
+          "type": "City",
+          "loc": [
+            -2.2109375,
+            1.5703128307018286
+          ],
+          "link": "Dalaston",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5722421133945453,
+            0.5505836575875487
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4ad9b9496a89",
+          "type": "Interest",
+          "loc": [
+            -2.60546875,
+            1.591794890789028
+          ],
+          "link": "Pegaduor",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5800704513053255,
+            0.6488326848249028
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8aab1a381b8a",
+          "type": "Interest",
+          "loc": [
+            -1.3095703125,
+            1.1132835649128006
+          ],
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4056947937618177,
+            0.32611867704280156
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b4b0a3adbaa",
+          "type": "City",
+          "loc": [
+            -1.01953125,
+            0.7919921875
+          ],
+          "link": "Adrast",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2886120996441281,
+            0.2538910505836576
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_884889fabb09",
+          "type": "City",
+          "loc": [
+            -1.5361328125,
+            0.6982392111835422
+          ],
+          "link": "Wispil",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2544473139686645,
+            0.38253891050583655
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a48393b8b1a",
+          "type": "River",
+          "loc": [
+            -1.7016754150390625,
+            1.1920798896249578
+          ],
+          "link": "Verduran Fork",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3abacbb9a9d8",
+          "type": "City",
+          "loc": [
+            -1.7333984375,
+            0.9814459739036573
+          ],
+          "link": "Belhaim",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3576514865755676,
+            0.43166342412451364
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bb89b7b191b",
+          "type": "Region",
+          "loc": [
+            -1.6206207275390625,
+            0.6274356189679986
+          ],
+          "link": "Verduran Province",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b98979dabbfb",
+          "type": "Woods",
+          "loc": [
+            -1.94921875,
+            0.8300774635963426
+          ],
+          "link": "Verduran Forest",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3024908621788807,
+            0.48540856031128404
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f95939180b39",
+          "type": "Fortress",
+          "loc": [
+            -1.9208984375,
+            0.4902340442981714
+          ],
+          "link": "Wildwood Lodge",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.17864756632075712,
+            0.4783560311284047
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8389bcb7b49",
+          "type": "Interest",
+          "loc": [
+            -2.1020660400390625,
+            0.9988904953648831
+          ],
+          "link": "Dunholme",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a8bba8989bb",
+          "type": "Interest",
+          "loc": [
+            -2.3608551025390625,
+            0.8777557383381306
+          ],
+          "link": "Nazilli",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bbcb08d89968",
+          "type": "Interest",
+          "loc": [
+            -2.2368316650390625,
+            1.2011073881434133
+          ],
+          "link": "Bafra's Face",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a986b986b28",
+          "type": "Geography",
+          "loc": [
+            -1.823272705078125,
+            1.628944611412123
+          ],
+          "link": "Tandak Plains",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bbbd93bb91b",
+          "type": "City",
+          "loc": [
+            -2.6416015625,
+            0.3164055885963427
+          ],
+          "link": "Cassomir",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.11530225007923663,
+            0.6578307392996109
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebd8db092ae9",
+          "type": "Geography",
+          "loc": [
+            -2.6147613525390625,
+            0.4076703643540467
+          ],
+          "link": "Blackwood Swamp",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0ae80a5abacb",
+          "type": "City",
+          "loc": [
+            -2.6806640625,
+            0.4531236771926854
+          ],
+          "link": "Hope's Hollow",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.16512407311220992,
+            0.6675583657587548
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b948487b296b",
+          "type": "City",
+          "loc": [
+            -2.931640625,
+            0.3154290260963427
+          ],
+          "link": "Ridonport",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.11494637819311564,
+            0.7300583657587548
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b99fb49ea9a",
+          "type": "Region",
+          "loc": [
+            -2.6342926025390625,
+            0.7368833733703014
+          ],
+          "link": "Tandak Prefecture",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8ea2b795948",
+          "type": "City",
+          "loc": [
+            -2.7421875,
+            0.9521507524128006
+          ],
+          "link": "Evondemor",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3469759325518533,
+            0.6828793774319066
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fad9d9ba4aca",
+          "type": "Interest",
+          "loc": [
+            -2.6767578125,
+            1.0166018932018286
+          ],
+          "link": "Temple Canyon",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3704627539639404,
+            0.6665856031128404
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_383a89fb590b",
+          "type": "City",
+          "loc": [
+            -2.779296875,
+            1.7568362682018286
+          ],
+          "link": "Karakuru",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6402136436436557,
+            0.6921206225680934
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa8a4aead8f8",
+          "type": "Region",
+          "loc": [
+            -2.671875,
+            2.3037539287377244
+          ],
+          "link": "Porthmos Prefecture",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8395174459172348,
+            0.6653696498054474
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aafa38ea8b49",
+          "type": "City",
+          "loc": [
+            -2.7744140625,
+            2.1650390625
+          ],
+          "link": "Sardis Township",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7889679715302491,
+            0.6909046692607004
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9be86a68cada",
+          "type": "Interest",
+          "loc": [
+            -2.5048828125,
+            2.1171845236835423
+          ],
+          "link": "House of the Senses Awakened",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7715291645024723,
+            0.623784046692607
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8380be8cafb",
+          "type": "Geography",
+          "loc": [
+            -2.4214019775390625,
+            2.5119274228538773
+          ],
+          "link": "Whistling Plains",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b58894b484b",
+          "type": "City",
+          "loc": [
+            -2.587890625,
+            2.513669890789028
+          ],
+          "link": "Stavian's Hold",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9160135118035462,
+            0.644455252918288
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_691bfb692bdb",
+          "type": "Fortress",
+          "loc": [
+            -2.892578125,
+            2.3007802578945142
+          ],
+          "link": "Porthmos Prison",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8384338021651183,
+            0.7203307392996109
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba0a094b4b79",
+          "type": "Geography",
+          "loc": [
+            -2.5903472900390625,
+            2.225697714718083
+          ],
+          "link": "Porthmos Gap",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da2a0ba8f96a",
+          "type": "City",
+          "loc": [
+            -2.9443359375,
+            1.713866195394514
+          ],
+          "link": "Kazuhn City",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6245547986063994,
+            0.7332198443579766
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b68bb5809fa",
+          "type": "Region",
+          "loc": [
+            -2.9565582275390625,
+            1.4783744153191667
+          ],
+          "link": "Kazuhn Prefecture",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a4b4b0bbaba",
+          "type": "Capital",
+          "loc": [
+            -3.2348785400390625,
+            1.2048443188071452
+          ],
+          "link": "Oppara",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5aaa890b8929",
+          "type": "River",
+          "loc": [
+            -3.0278472900390625,
+            0.5952629608660681
+          ],
+          "link": "Jagged Saw",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28eaf89bd98b",
+          "type": "City",
+          "loc": [
+            -2.9521484375,
+            1.0029283646926854
+          ],
+          "link": "Old Sehir",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3654799449983309,
+            0.7351653696498055
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b28ba0bd9b8",
+          "type": "Region",
+          "loc": [
+            -3.0131988525390625,
+            1.0886320584998308
+          ],
+          "link": "Opparos Prefecture",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_683aa8aaaa98",
+          "type": "Fortress",
+          "loc": [
+            -3.0205078125,
+            1.7050797785091432
+          ],
+          "link": "Treaclerun",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6213529157271753,
+            0.7521887159533074
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a08ab498bb8",
+          "type": "River",
+          "loc": [
+            -3.126953125,
+            1.6523467263164577
+          ],
+          "link": "Porthmos River",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.602136315924574,
+            0.7786964980544747
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_899a2a8a7898",
+          "type": "City",
+          "loc": [
+            -3.3359375,
+            0.9931620782890281
+          ],
+          "link": "Mut",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.36192098511315474,
+            0.830739299610895
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28283a29b83b",
+          "type": "City",
+          "loc": [
+            -3.5546875,
+            1.1845686589908566
+          ],
+          "link": "Kozan",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.43167199530485306,
+            0.8852140077821011
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_888b8a8aba0b",
+          "type": "Interest",
+          "loc": [
+            -3.3305816650390625,
+            1.7089592416610229
+          ],
+          "link": "Kublan Grove",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_faaa58b8798a",
+          "type": "City",
+          "loc": [
+            -3.1630859375,
+            1.600583953289028
+          ],
+          "link": "Elsekulp",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5832732982804145,
+            0.7876945525291829
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab7a78ebba88",
+          "type": "Region",
+          "loc": [
+            -3.1411285400390625,
+            1.9482980761090416
+          ],
+          "link": "Ligos Prefecture",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b180b396888",
+          "type": "Geography",
+          "loc": [
+            -3.091796875,
+            2.291015625
+          ],
+          "link": "Emperor's Pass",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4bc819284aea",
+          "type": "Fortress",
+          "loc": [
+            -3.11328125,
+            2.2646481067981714
+          ],
+          "link": "Sanctum's Watch",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8252667834026076,
+            0.7752918287937743
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_285b8a18aa5a",
+          "type": "City",
+          "loc": [
+            -3.103515625,
+            2.417967096490857
+          ],
+          "link": "Tribulation",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8811381874756717,
+            0.7728599221789884
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab6a09baf818",
+          "type": "City",
+          "loc": [
+            -3.693359375,
+            1.3017588046054858
+          ],
+          "link": "Merciful Bay",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.47437758573523753,
+            0.9197470817120622
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_daa898fb5838",
+          "type": "Region",
+          "loc": [
+            -3.7778472900390625,
+            1.340806423023197
+          ],
+          "link": "Moda Prefecture",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e899089a1a5b",
+          "type": "City",
+          "loc": [
+            -3.734375,
+            1.5263665260963428
+          ],
+          "link": "Railford",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5562275169831513,
+            0.9299610894941635
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b39c9bb2b8a",
+          "type": "City",
+          "loc": [
+            -3.837890625,
+            1.3769524635963428
+          ],
+          "link": "Golsifar",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5017791184066388,
+            0.955739299610895
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08fb1858e87b",
+          "type": "River",
+          "loc": [
+            -3.9165191650390625,
+            1.5254392381688116
+          ],
+          "link": "Jalrune River",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a5bbb9beba8",
+          "type": "Woods",
+          "loc": [
+            -3.7861328125,
+            1.7646467839908566
+          ],
+          "link": "Border Wood",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.643059895660725,
+            0.9428501945525292
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_788a182ada68",
+          "type": "City",
+          "loc": [
+            -3.3173828125,
+            1.4335924271926854
+          ],
+          "link": "Pastorling",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5224194467776904,
+            0.8261186770428015
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39585838e8ba",
+          "type": "Fortress",
+          "loc": [
+            -3.310546875,
+            1.4091826638164577
+          ],
+          "link": "Canalsguard",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5135242162804458,
+            0.8244163424124513
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6afbb97ac84b",
+          "type": "Region",
+          "loc": [
+            -3.4458160400390625,
+            1.6735764609083983
+          ],
+          "link": "Lingian Prefecture",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_198afb78b82b",
+          "type": "City",
+          "loc": [
+            -3.2578125,
+            2.1406150789451406
+          ],
+          "link": "Elbistan",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.780067559017731,
+            0.811284046692607
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_388b6978c949",
+          "type": "City",
+          "loc": [
+            -3.5009765625,
+            2.0185533646926856
+          ],
+          "link": "Ortalaca",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7355867065641672,
+            0.8718385214007782
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dbd878a9cafa",
+          "type": "Region",
+          "loc": [
+            -3.572265625,
+            2.232421213596343
+          ],
+          "link": "Whitemarch Prefecture",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a89dafb2989",
+          "type": "Geography",
+          "loc": [
+            -3.5561676025390625,
+            2.5459420901413816
+          ],
+          "link": "Headwater Gap",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2879a95a988b",
+          "type": "City",
+          "loc": [
+            -3.6962890625,
+            2.569334614692685
+          ],
+          "link": "Monastery of the Seven Forms",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9362984503364091,
+            0.920476653696498
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b6b4ba938a8",
+          "type": "Region",
+          "loc": [
+            -3.6357421875,
+            1.9482421875
+          ],
+          "link": "Sophra Prefecture",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7099644128113879,
+            0.9053988326848249
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c86879e91ad9",
+          "type": "City",
+          "loc": [
+            -3.740234375,
+            1.8300774635963428
+          ],
+          "link": "Heldren",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6669036735667812,
+            0.931420233463035
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e848287b0a3a",
+          "type": "City",
+          "loc": [
+            -3.728515625,
+            1.9941393021926854
+          ],
+          "link": "Zimar",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7266899094111423,
+            0.9285019455252919
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_483ada3bda68",
+          "type": "City",
+          "loc": [
+            -3.9174957275390625,
+            1.8435558780265833
+          ],
+          "link": "Demgazi",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b095a9a2909",
+          "type": "City",
+          "loc": [
+            -3.7529296875,
+            2.4140621692981714
+          ],
+          "link": "Lionsguard",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8797151819791201,
+            0.9345817120622568
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4ab898b85bba",
+          "type": "Mountains",
+          "loc": [
+            -3.6015625,
+            2.5800811013164577
+          ],
+          "link": "Mount Kaltafarr",
+          "layer": "%5B%5Btaldormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9402146077395206,
+            0.896887159533074
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Taldor Map.md"
+      ]
+    },
+    {
+      "id": "osirion-map",
+      "locked": false,
+      "lastAccessed": 1687101812440,
+      "markers": [
+        {
+          "id": "ID_58fb8ba96a6a",
+          "type": "Region",
+          "loc": [
+            -1.033203125,
+            1.1230501910016977
+          ],
+          "link": "Osirian Desert",
+          "layer": "%5B%5Bosirionmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.37754543518901457,
+            0.4379139072847682
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab5a1b9a29f8",
+          "type": "Capital",
+          "loc": [
+            -1.1171875,
+            2.2324198853989814
+          ],
+          "link": "Sothis",
+          "layer": "%5B%5Bosirionmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7504917802523168,
+            0.4735099337748344
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Osirion Map.md"
+      ]
+    },
+    {
+      "id": "katapesh-map",
+      "lastAccessed": 1687990791879,
+      "markers": [
+        {
+          "id": "ID_e99979cb297a",
+          "type": "Interest",
+          "loc": [
+            -1.451019287109375,
+            0.2606918708922635
+          ],
+          "link": "Zolurket Mines",
+          "layer": "%5B%5Bkatapeshmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "World/Geography/Cathedrals & Temples/Katapesh Map.md"
+      ]
+    },
+    {
+      "id": "ustalav-map",
+      "lastAccessed": 1687993527377,
+      "markers": [
+        {
+          "id": "ID_eb4a2879db6a",
+          "type": "City",
+          "loc": [
+            -1.0361328125,
+            1.0966796875
+          ],
+          "link": "Kavapesta",
+          "layer": "%5B%5Bustalavmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5026857654431512,
+            0.5071701720841301
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Ustalav Map.md"
+      ]
+    },
+    {
+      "id": "andoran-map",
+      "lastAccessed": 1688034384583,
+      "markers": [
+        {
+          "id": "ID_a87ae89b8afb",
+          "type": "City",
+          "loc": [
+            -1.191314697265625,
+            1.1611328125
+          ],
+          "link": "Falcon's Hollow",
+          "layer": "%5B%5Bandoranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_596998e84afb",
+          "type": "City",
+          "loc": [
+            -1.8876953125,
+            1.53125
+          ],
+          "link": "Riverford",
+          "layer": "%5B%5Bandoranmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.550948699929726,
+            0.6791988756148981
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Andoran Map.md"
+      ]
+    },
+    {
+      "id": "coolest-map",
+      "lastAccessed": 1688034384583,
+      "markers": [
+        {
+          "id": "ID_f949b8682888",
+          "type": "Region",
+          "loc": [
+            -15.15985107421875,
+            3.98046875
+          ],
+          "link": "Sargava",
+          "layer": "%5B%5Bthe%20coolest%20map.jpeg%7CVisuale%20Normale%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a58d999c98b",
+          "type": "Region",
+          "loc": [
+            -11.627593348197344,
+            2.227886239687816
+          ],
+          "link": "Eye of Abendego",
+          "layer": "%5B%5Bthe%20coolest%20map.jpeg%7CVisuale%20Normale%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1baa0aba78eb",
+          "type": "Region",
+          "loc": [
+            -0.401397705078125,
+            0.9722622830289569
+          ],
+          "link": "Two Tree Island",
+          "layer": "%5B%5Bhemea.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab1aa9ba1a78",
+          "type": "Capital",
+          "loc": [
+            -0.7119140625,
+            0.6562640798290202
+          ],
+          "link": "Promise",
+          "layer": "%5B%5Bhemea.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.05367527298282083,
+            0.04525701514775267
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Inner Sea Region Map.md"
+      ]
+    },
+    {
+      "id": "isger-map",
+      "lastAccessed": 1688034384583,
+      "markers": [
+        {
+          "id": "ID_5a784a3b486a",
+          "type": "Interest",
+          "loc": [
+            -0.6064453125,
+            0.265625
+          ],
+          "link": "Finder's Gulch",
+          "layer": "%5B%5Bisgermap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.17754569190600522,
+            0.37636363636363634
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Maps/Isger Map.md"
+      ]
+    },
+    {
+      "id": "promise-map",
+      "locked": false,
+      "lastAccessed": 1688034384707,
+      "markers": [
+        {
+          "id": "ID_d868093a5bdb",
+          "type": "default",
+          "loc": [
+            -1.6328125,
+            2.3671875
+          ],
+          "link": "Beggar District",
+          "layer": "%5B%5Bpromise.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.21100278551532034,
+            0.18956916099773244
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2beafa9b0bfa",
+          "type": "default",
+          "loc": [
+            -4.9375,
+            4.609375
+          ],
+          "link": "Soldier Distrisct",
+          "layer": "%5B%5Bpromise.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.41086350974930363,
+            0.5732426303854875
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_596b2b2a88c8",
+          "type": "default",
+          "loc": [
+            -2.4642333984375,
+            5.1875
+          ],
+          "link": "Artist District",
+          "layer": "%5B%5Bpromise.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_482bf999ab6a",
+          "type": "default",
+          "loc": [
+            -2.8079833984375,
+            3.3515625
+          ],
+          "link": "Sheperd District",
+          "layer": "%5B%5Bpromise.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28099be89a69",
+          "type": "default",
+          "loc": [
+            -4.3079833984375,
+            0.546875
+          ],
+          "link": "Craftsman District",
+          "layer": "%5B%5Bpromise.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9aba9ab8bda",
+          "type": "default",
+          "loc": [
+            -6.0423583984375,
+            5.5703125
+          ],
+          "link": "Scholar District",
+          "layer": "%5B%5Bpromise.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "World/Geography/Cities/Promise.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#ff4d4d",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Capital",
+      "iconName": "home",
+      "color": "#ff4d4d",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "Capital"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Region",
+      "iconName": "map",
+      "color": "#442222",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "Region"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "City",
+      "iconName": "house-user",
+      "color": "#ff8f8f",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "City"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Interest",
+      "iconName": "question",
+      "color": "#4f3ed0",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "InterestingPlace"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Story",
+      "iconName": "calendar-day",
+      "color": "#4dbbff",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Geography",
+      "iconName": "globe-europe",
+      "color": "#03911b",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Road",
+      "iconName": "road",
+      "color": "#787878",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Fortress",
+      "iconName": "shield-alt",
+      "color": "#bf6ea9",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "River",
+      "iconName": "water",
+      "color": "#5dc5da",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Woods",
+      "iconName": "tree",
+      "color": "#1d6b00",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Mountains",
+      "iconName": "mountain",
+      "color": "#690207",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "5.6.1",
+  "version": {
+    "major": 5,
+    "minor": 6,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}

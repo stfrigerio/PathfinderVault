@@ -1,0 +1,5 @@
+---
+Nation: Katapesh
+---
+> The **Onyx Hall** was built to serve as a distant retreat for a rich merchant family from [[Solku]]. It is built from slate, marble, and the dark granite from which the building gains its name. The hall is located near a spur of the [[Brazen Peaks]] next to a lake known as the [[Shadis Meer]], It in a remote location isolated from any community and over 20 miles from the trade route that cuts across the [[Uwaga Highlands]].
+> The family that had the Onyx Hall built gained much of its wealth from the [[Slave|slave]] trade, which proved their downfall. Around 200 years ago, the family was cursed by a woman whose husband and children were sold to different owners from distant lands.  Her [[Curse|curse]] condemned the manor's residents to "dwell in bondage until the stones themselves burn like a pyre". No one has lived in the Onyx Hall since that day, none who have traveled there have ever returned, and the location is rarely visited despite the rumors of vast riches hidden within.

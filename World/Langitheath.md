@@ -1,0 +1,3 @@
+---
+---
+> **Langitheath** was once a well-to-do manorial estate in the central [[Ustalav|Ustalavic]] province of [[Ardeal]]. It and the surrounding 900 acres of farmland were sold by the Loslimor family around *ca.* [[4681 AR]], after which the estate passed through a number of different owners before finally being abandoned. Despite the fact that no one is believed to have worked the land for decades, a new crop of flax still grows every year, forming strange spiral shapes around the old manor house. Those who have come close to the estate have reported seeing small figures capering through the fields, or report meeting unnatural children with eyes as cold and blue as the flax flowers of Langitheath.

@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "942fcda7638a0b26",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d337d697730c037",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eea84e4e46fffd53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Geography/Nations/Mendev.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2490ad8e205cb5d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fae811cb1ce7a6c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19b90d21bdf3fa80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6f8633029944c67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "map",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12896d075f81c319",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf0fe4b6d42c6ec4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "42bac08bc7620e47",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7ec349bc4bf5c847",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dfbe6092f1ed84d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "449b919a8f84a5c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Scripts/WikiScraper.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "30060bf06230c730",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World/Geography/Nations/Mendev.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2249046cfbe849e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World/Geography/Nations/Mendev.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "22ae72409be1ad57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c36939ba43ce6fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World/Geography/Nations/Mendev.md"
+              }
+            }
+          },
+          {
+            "id": "e6ed2ddee4ae7029",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb503ff66b996702",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb4bf820e319d977",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "initiative-tracker:Intiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "dbfolder:Create a new database table": false
+    }
+  },
+  "active": "eea84e4e46fffd53",
+  "lastOpenFiles": [
+    "World/Geography/Cities/Kenabres.md",
+    "World/NPCs/Vittorio's Handcrafted NPCs/Isgerians/Adramas Mevron.md",
+    "Bestiary/Level 10/Nereid.md",
+    "Magic/Conjuration.md",
+    "Rules/Traits/Energy/Water.md",
+    "Rules/Traits/Tradition/Primal.md",
+    "World/Transmutation.md",
+    "Rules/Traits/Action/Concentrate.md",
+    "Rules/Traits/Item/Magical.md",
+    "Rules/Traits/Weapon/Finesse.md",
+    "Bestiary/Level 10/Imentesh.md",
+    "Bestiary/Level 10/Garipan.md",
+    "Bestiary/Level 10/Dorvae.md",
+    "Bestiary/Level 10/Behemoth Hippopotamus.md",
+    "Bestiary/NPC Statblock/Harrow Reader.md",
+    "Bestiary/NPC Statblock/Palace Guard.md",
+    "Bestiary/NPC Statblock/Ruffian.md",
+    "Bestiary/NPC Statblock/Troubadour.md",
+    "Bestiary/NPC Statblock/Teacher.md",
+    "Bestiary/NPC Statblock/Warden.md",
+    "Bestiary/NPC Statblock/Zealot Of Asmodeus.md",
+    "Bestiary/Air elemental.md",
+    "Bestiary/NPC Statblock/Sage.md",
+    "Bestiary/NPC Statblock/Monster Hunter.md",
+    "Bestiary/NPC Statblock/Executioner.md",
+    "Bestiary/NPC Statblock/Bandit.md",
+    "Utilities/Media/Immagini/Attachments/Pasted image 20230629124446.png",
+    "World/NPCs/Vittorio's Handcrafted NPCs/Hermeans",
+    "Utilities/Media/Immagini/Attachments/Pasted image 20230629121714.png",
+    "Utilities/Media/Immagini/Script/Aaqir_al%27Hakam.jpg",
+    "World/NPCs/Vittorio's Handcrafted NPCs/Isgerians",
+    "World/NPCs/Vittorio's Handcrafted NPCs",
+    "Marzo Random tables/_Generators general guide.canvas",
+    "templesù",
+    "Utilities/Media/Immagini/Mappe/katapeshmap.jpg",
+    "dungeio",
+    "Utilities/Media/Immagini/Script/250px-Fola_Barun.jpg",
+    "Utilities/Media/Immagini/Script/250px-Usaro_map.jpg",
+    "Utilities/Media/Immagini/Script/250px-Pridon%27s_Hearth.jpg",
+    "Utilities/Media/Immagini/Script/250px-Mzali.jpg",
+    "Rules/assets/img/hour-glass.svg",
+    "Rules/assets/img/two_actions.svg",
+    "swamè",
+    "Rules/Conditions",
+    "Rules/Conditions",
+    "Test",
+    "Academy Quest.canvas",
+    "Quests/Promise",
+    "Utilities/Scripts/Alley.canvas",
+    "Utilities/Scripts/Azotot.canvas",
+    "Utilities/Scripts/Untitled.canvas"
+  ]
+}

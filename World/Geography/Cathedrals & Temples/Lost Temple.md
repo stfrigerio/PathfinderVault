@@ -1,0 +1,6 @@
+---
+Nation: Katapesh
+---
+> Located in the southern reaches of the [[Katapesh]] desert near the border with [[Nex]], **the Lost Temple** was clearly once a religious site, but no one knows which [[God|god]] it was devoted to.
+> The ordered layout suggests that it was probably dedicated to a [[Law|lawful]] god, but beyond that the evidence is confusing. The temple has small, individual cells that suggest it may have been a monastery of [[Irori]]. Beneath it is a huge vault reminiscent of those found in temples of [[Abadar]], while the abandoned soaring towers look more like those dedicated to the [[Sun|sun]] goddess [[Sarenrae]]. There are even rumors that the temple may have been dedicated to the dead god [[Aroden]], though there is no evidence of this.
+> The site often draws [[Adventurer|adventurers]] of a religious bent to the site determined to identify who it was dedicated to. This constant influx of armed adventurers has kept the site relatively free of the dangerous monsters that often use abandoned ruins as lairs.
